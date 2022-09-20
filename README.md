@@ -19,7 +19,7 @@
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0pky">** Termistor NTC limitadores de picos de corriente, tipo disco.</td>
+    <td class="tg-0pky">Termistor NTC limitadores de picos de corriente, tipo disco.</td>
     <td class="tg-0pky">Su aplicación es común en conmutación (AC/DC).</td>
   </tr>
   <tr>
