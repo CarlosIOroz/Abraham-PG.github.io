@@ -1,25 +1,25 @@
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5620306.png" width="1372" height="90" alt="Sensor de temperatura analogo (NTC)" /></a>
 <br />
 
-# ¿Qué es un sensor de temperatura analogica (NTC)?
-### NTC significa "Coeficiente de temperatura negativo".
+# *¿Qué es un sensor de temperatura analogica (NTC)?*
+###### NTC significa "Coeficiente de temperatura negativo".
 ### Los termistores NTC son resistencias con un coeficiente de temperatura negativo, lo que significa que la resistencia disminuye al aumentar la temperatura. 
 
-# ¿Cúal es su usó?
+# *¿Cúal es su usó?*
 ### Se utilizan principalmente como sensores de temperatura resistivos y dispositivos limitadores de corriente. 
 
-# Diagrama curva de caracteristica NTC.
+# *Diagrama curva de caracteristica NTC.*
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99372301/191318620-1b232bc7-81de-4d05-a10c-3a7c90576425.png">
 </p>
 
 
-# Tabla de sensor de temperatura NTC.
+# *Tipos de sensor de temperatura NTC.*
 
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-0pky">Termistor NTC limitadores de picos de corriente, tipo disco.</td>
+    <td class="tg-0pky">** Termistor NTC limitadores de picos de corriente, tipo disco.</td>
     <td class="tg-0pky">Su aplicación es común en conmutación (AC/DC).</td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@
 </tbody>
 </table>
 
-# Caracteristicas de los sensores de temperatura.
+# *Caracteristicas de los sensores de temperatura.*
 <table class="tg">
 <tbody>
   <tr>
@@ -52,7 +52,7 @@
 </tbody>
 </table>
 
-# Ilustraciones de los sensores.
+# *Ilustraciones de los sensores.*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/99372301/191334008-6b555b9e-d62f-4258-860d-011fc2b86fc5.png">
