@@ -35,14 +35,12 @@
 
 # Caracteristicas de los sensores de temperatura.
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0pky">Son un termistor altamente sensibles y con un coeficiente de temperatura negativo</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-0pky">El cambio en la resistencia de los termistores de NTC se puede causar externamente por un cambio en temperatura ambiente o internamente por una corriente que atraviesa el dispositivo.</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Son un termistor altamente sensibles y con un coeficiente de temperatura negativo.</td>
   </tr>
   <tr>
     <td class="tg-0pky">La curva de la resistencia del termistor NTC no es lineal, pero se pueden utilizar unos circuitos sencillos que ayudan a linealizar su característica de forma apreciable.</td>
@@ -50,12 +48,14 @@
   <tr>
     <td class="tg-0pky">Están regidos por distintas ecuaciones.</td>
   </tr>
+  
 </tbody>
 </table>
 
 # Ilustraciones de los sensores.
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/99372301/191330154-e21f35a5-cc29-4993-b801-e911c22b9586.png">
+  <img src="https://user-images.githubusercontent.com/99372301/191334008-6b555b9e-d62f-4258-860d-011fc2b86fc5.png">
   <img src="https://user-images.githubusercontent.com/99372301/191330190-7202423c-9890-42b2-ad0f-78e65698d8db.png">
   <img src="https://user-images.githubusercontent.com/99372301/191330226-58a87d3e-98a3-468a-8c89-7811b2b56c57.png">
 </p>
